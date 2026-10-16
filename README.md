@@ -1,36 +1,204 @@
-<h1 align="center">Hi 👋, I'm Ankit Shukla</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitshukla9&label=Profile%20views&color=0e75b6&style=flat" alt="ankitshukla9" /> </p>
+<!-- ======================================================= -->
+<!--                 ANKIT SHUKLA | GITHUB                    -->
+<!-- ======================================================= -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankitshukla9" alt="ankitshukla9" /></a> </p>
+<div align="center">
 
-- 🔭 I’m currently working on [My-Portfolio](https://github.com/ankitshukla9/my-portfolio)
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:312e81,100:06b6d4&height=200&section=header&text=Ankit%20Shukla&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%20Full%20Stack%20Web%20Developer&descAlignY=60&descSize=16" width="100%" alt="Ankit Shukla GitHub banner" />
 
-- 🌱 I’m currently learning **MongoDB**
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer;Building+Real-World+Web+Applications;React.js+%7C+Node.js+%7C+Express.js+%7C+MongoDB;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+  </a>
 
-- 👯 I’m looking to collaborate on [Blinkit-clone](https://github.com/ankitshukla9/Blinkit-Clone.git)
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=ankitshukla9&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="Profile views" />
+    <img src="https://img.shields.io/github/followers/ankitshukla9?label=FOLLOWERS&style=for-the-badge&color=6366f1" alt="GitHub followers" />
+  </p>
 
-- 🤝 I’m looking for help with [Blinkit-Clone](https://github.com/ankitshukla9/Blinkit-Clone.git)
+  <p>
+    <a href="https://github.com/ankitshukla9">
+      <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
+    </a>
+    <a href="https://linkedin.com/in/ankitshukla9653">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+    </a>
+    <a href="mailto:ankitshukla965373@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
 
-- 💬 Ask me about **MERN Full Stack Developer**
+</div>
 
-- 📫 How to reach me **ankitshukla965373@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ankitshukla9653" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ankitshukla9653" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ankitshukla9653" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankitshukla9653" height="30" width="40" /></a>
-<a href="https://fb.com/ankit shukla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ankit shukla" height="30" width="40" /></a>
-<a href="https://instagram.com/ankitshukla9653" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ankitshukla9653" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ankitshukla9653" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ankitshukla9653" height="30" width="40" /></a>
-</p>
+## 👨‍💻 About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+Hi! I'm **Ankit Shukla**, a developer from India who enjoys building web applications and learning new technologies.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitshukla9&show_icons=true&locale=en&layout=compact" alt="ankitshukla9" /></p>
+- 🔭 Currently working on my **Personal Portfolio**
+- 🛒 Building a **BlinkIt Clone**
+- 🌱 Learning and improving my skills in **MongoDB and full-stack development**
+- 💻 Interested in building responsive and user-friendly web applications
+- 🎯 Goal: Grow as a professional Full Stack Developer
+- 🤝 Open to collaborating on interesting web development projects
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitshukla9&show_icons=true&locale=en" alt="ankitshukla9" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitshukla9&" alt="ankitshukla9" /></p>
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+### Frontend
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+  <img src="https://skillicons.dev/icons?i=html" height="48" alt="HTML5" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+  <img src="https://skillicons.dev/icons?i=css" height="48" alt="CSS3" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+  <img src="https://skillicons.dev/icons?i=js" height="48" alt="JavaScript" />
+</a>
+<a href="https://react.dev/">
+  <img src="https://skillicons.dev/icons?i=react" height="48" alt="React" />
+</a>
+<a href="https://getbootstrap.com/">
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="48" alt="Bootstrap" />
+</a>
+<a href="https://tailwindcss.com/">
+  <img src="https://skillicons.dev/icons?i=tailwind" height="48" alt="Tailwind CSS" />
+</a>
+
+### Backend & Database
+
+<a href="https://nodejs.org/">
+  <img src="https://skillicons.dev/icons?i=nodejs" height="48" alt="Node.js" />
+</a>
+<a href="https://expressjs.com/">
+  <img src="https://skillicons.dev/icons?i=express" height="48" alt="Express.js" />
+</a>
+<a href="https://www.mongodb.com/">
+  <img src="https://skillicons.dev/icons?i=mongodb" height="48" alt="MongoDB" />
+</a>
+
+### Tools
+
+<a href="https://git-scm.com/">
+  <img src="https://skillicons.dev/icons?i=git" height="48" alt="Git" />
+</a>
+<a href="https://github.com/">
+  <img src="https://skillicons.dev/icons?i=github" height="48" alt="GitHub" />
+</a>
+<a href="https://www.postman.com/">
+  <img src="https://skillicons.dev/icons?i=postman" height="48" alt="Postman" />
+</a>
+<a href="https://code.visualstudio.com/">
+  <img src="https://skillicons.dev/icons?i=vscode" height="48" alt="VS Code" />
+</a>
+
+</div>
+
+---
+
+## 📊 GitHub Overview
+
+<div align="center">
+
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ankitshukla9&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub statistics" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitshukla9&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages" />
+
+  <br/><br/>
+
+  <img width="49%" src="https://img.shields.io/github/repos/ankitshukla9?style=for-the-badge&logo=github&label=PUBLIC%20REPOSITORIES&color=6366f1" alt="Public repository count" />
+  <img width="49%" src="https://img.shields.io/github/stars/ankitshukla9?style=for-the-badge&logo=github&label=STARS%20EARNED&color=f59e0b" alt="Stars earned" />
+
+  <br/><br/>
+
+  <img width="70%" src="https://streak-stats.demolab.com?user=ankitshukla9&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+  <a href="https://github.com/ankitshukla9/my-portfolio">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ankitshukla9&repo=my-portfolio&theme=tokyonight&hide_border=true" alt="Personal Portfolio repository" />
+  </a>
+  <a href="https://github.com/ankitshukla9/Blinkit-Clone">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ankitshukla9&repo=Blinkit-Clone&theme=tokyonight&hide_border=true" alt="BlinkIt Clone repository" />
+  </a>
+
+</div>
+
+### 🌐 Personal Portfolio
+My personal portfolio showcasing my developer profile, skills and projects.
+
+- **Repository:** [my-portfolio](https://github.com/ankitshukla9/my-portfolio)
+- **Status:** In Progress
+
+### 🛒 BlinkIt Clone
+A grocery shopping web application inspired by Blinkit.
+
+- **Repository:** [Blinkit-Clone](https://github.com/ankitshukla9/Blinkit-Clone)
+- **Status:** In Progress
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankitshukla9&bg_color=1a1b27&color=70a5fd&line=38bdae&point=bf91f3&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
+
+</div>
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ankitshukla9/ankitshukla9/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ankitshukla9/ankitshukla9/output/github-contribution-grid-snake.svg" />
+    <img alt="Animated GitHub contribution snake" src="https://raw.githubusercontent.com/ankitshukla9/ankitshukla9/output/github-contribution-grid-snake.svg" />
+  </picture>
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+  <a href="https://linkedin.com/in/ankitshukla9653">
+    <img src="https://img.shields.io/badge/LinkedIn-Ankit%20Shukla-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/ankitshukla9653">
+    <img src="https://img.shields.io/badge/Instagram-ankitshukla9653-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://twitter.com/ankitshukla9653">
+    <img src="https://img.shields.io/badge/Twitter-Profile-000000?style=for-the-badge&logo=x" alt="Twitter / X" />
+  </a>
+  <a href="mailto:ankitshukla965373@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+
+</div>
+
+---
+
+<div align="center">
+
+  ### 💙 Thanks for visiting my profile!
+
+  **Keep learning. Keep building. Keep growing.** 🚀
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:312e81,100:0f172a&height=100&section=footer" width="100%" alt="Footer banner" />
+
+</div>
